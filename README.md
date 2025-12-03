@@ -13,23 +13,27 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m an Economics graduate who is now deepening my expertise in Data Analytics to bridge business insight with data-driven decision making.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+With a strong foundation in economic analysis and statistics, I enjoy turning complex datasets into clear insights that support business strategy and performance improvement. I’m especially interested in how data can be used to understand customer behavior, optimize operations, and forecast future trends.
+
+My current focus is on building dashboards that are easy to understand and actually used by decision-makers, automating repetitive reporting tasks, and developing analytical models that help businesses plan smarter and faster.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Business Intelligence Dashboard** – Creating interactive dashboards in Power BI to monitor sales, customer behavior, and performance metrics.
+- **Personal Analytics Projects** – Developing case studies using real-world datasets to strengthen analytical and storytelling skills.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced SQL for data analysis
+- Python for automation and data modeling
+- Statistical analysis for business decision-making
+- Data visualization best practices
+- Basic machine learning for predictive analytics
 
 ## 🛠️ Technical Skillset
 
@@ -51,8 +55,9 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Beginner-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Beginner-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  
 </p>
