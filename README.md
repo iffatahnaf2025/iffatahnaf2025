@@ -20,7 +20,7 @@ With a strong foundation in economic analysis and statistics, I enjoy turning co
 My current focus is on building dashboards that are easy to understand and actually used by decision-makers, automating repetitive reporting tasks, and developing analytical models that help businesses plan smarter and faster.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://iffatahnaf2025.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
